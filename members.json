@@ -1,0 +1,82 @@
+[
+    {
+        "Id": 1,
+        "Name": "sameh",
+        "National Id": 19985587931889,
+        "Phone Number": 155257933468,
+        "Membership": {
+            "from": 2024,
+            "to": 2025,
+            "cost": 3000
+        },
+        "Status": {
+            "active": true,
+            "freeze": false
+        },
+        "TrainerId": 15
+    },
+    {
+        "Id": 2,
+        "Name": "john",
+        "National Id": 1978569941889,
+        "Phone Number": 15522733468,
+        "Membership": {
+            "from": 2023,
+            "to": 2025,
+            "cost": 3500
+        },
+        "Status": {
+            "active": true,
+            "freeze": false
+        },
+        "TrainerId": 12
+    },
+    {
+        "Id": 3,
+        "Name": "khalid",
+        "National Id": 200558793469,
+        "Phone Number": 105357833448,
+        "Membership": {
+            "from": 2023,
+            "to": 2024,
+            "cost": 2000
+        },
+        "Status": {
+            "active": false,
+            "freeze": true
+        },
+        "TrainerId": 11
+    },
+    {
+        "Id": 4,
+        "Name": "ahmed",
+        "National Id": 19985587441889,
+        "Phone Number": 125253933468,
+        "Membership": {
+            "from": 2022,
+            "to": 2024,
+            "cost": 3000
+        },
+        "Status": {
+            "active": false,
+            "freeze": true
+        },
+        "TrainerId": 20
+    },
+    {
+        "Id": 5,
+        "Name": "ali",
+        "National Id": 2005587932089,
+        "Phone Number": 11257933468,
+        "Membership": {
+            "from": 2022,
+            "to": 2025,
+            "cost": 4000
+        },
+        "Status": {
+            "active": true,
+            "freeze": false
+        },
+        "TrainerId": 17
+    }
+]
